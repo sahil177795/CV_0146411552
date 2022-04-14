@@ -1,7 +1,6 @@
-# *__Sahil's e-Curriculum vitae!__*
+# *__Sahil's eResume!__*
 <br/><br/>
-> Hello World! Sahil on this end welcoming you to my online curriculum vitae!
-
+> Hello World! Sahil on this end welcoming you to my online resume!
 <br/><br/>
 
 ___
@@ -52,7 +51,7 @@ ___
 <br/><br/>
 ___
 
-__Where I Gained Experience__
+__Work Experience__
 
 ___
 
@@ -68,9 +67,9 @@ ___
 	* Provided admin support and teaching support for all level students including secondary school students on Additional Mathematics, alongside tutoring primary school students.
 
 <br/><br/>
- ___
+___
 
-__Where I Learnt Knowledge__
+__Knowledge__
 
 ___
 
@@ -89,15 +88,13 @@ ___
 <br/><br/>
 ___
 
-__What I Was Active In and My Leadership Experience__
+__Leadership Experience__
 
 ___
 
-### Extra Co-curricular Activities : 
+### Leadership Experience : 
 * AJK Tertinggi, Ekspo Kerjaya dan Pendidikan 2016 (EKSPEN), USM
-* Sekretariat Pelaksana, Pesta Hoki Antarabanga ke-42, USM
 * Assistant Exco, MPD Tekun, USM
-* Mathematics Co-Ordinator, Academic Biro, Kolej Matrukulasi Kedah
 * Vise-President, Prefect Board, SMK Maxwell (2012)
 * President, Kelab Sains Kemanusian, SMK Maxwell
 * Treasurer, Kelab Rukun Negara, Kadet Remaja Sekolah (KRS), Badminton, SMK Maxwell
