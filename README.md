@@ -1,14 +1,14 @@
 # *__Sahil's eResume!__*
-<br/><br/>
+
+<br/>
 > Hello World! Sahil on this end welcoming you to my online resume!
 <br/><br/>
-
 ___
 
 __Personal Details__
 
 ___
-
+<br/>
 ### Name  : 
 	Mohamed Sahil Bin Mohamed Salim
 	
@@ -28,7 +28,7 @@ ___
 __My Goals, Skillset & Languages__
 
 ___
-
+<br/>
 ### Career Objective :
 	Hi Employer, Good day to you! This website is basically electronic version of my Resume, 
 	which has more details since I wanted to keep the hardcopy summarized and simple. 
@@ -54,7 +54,7 @@ ___
 __Work Experience__
 
 ___
-
+<br/>
 ### Work Experience :
 * Site IT Infra Lead at NXP Semiconductors (M) Sdn. Bhd., Petaling Jaya (October 2019 – Present).
 	* Providing my support in managing infrastructure services delivery management, handling P1 incidents and root cause analysis to prevent re-occurrence.
@@ -72,7 +72,7 @@ ___
 __Knowledge__
 
 ___
-
+<br/> 
 ### Education : 
 * Certified Ethical Hacker (Master), EC Council, 2020 to 2021.
 * B. Sc. Computer Science (Hons.), Universiti Sains Malaysia, 2014 to 2019.
@@ -91,7 +91,7 @@ ___
 __Leadership Experience__
 
 ___
-
+<br/> 
 ### Leadership Experience : 
 * AJK Tertinggi, Ekspo Kerjaya dan Pendidikan 2016 (EKSPEN), USM
 * Assistant Exco, MPD Tekun, USM
@@ -103,9 +103,10 @@ ___
 <br/><br/>
 ___
 
-__How Can You Reach Me__
+__How Can You Reach Out To Me__
 
 ___
+<br/> 
 ### Contact Information : 
 * Mobile Number : +6014-641 1552
 * Email         : 
