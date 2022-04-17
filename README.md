@@ -1,4 +1,4 @@
-# *__Sahil's eResume!__*
+# *__Sahil's e-Resume!__*
 
 <br/><br/>
 ### **Hello World! Sahil on this end welcoming you to my online resume!**
