@@ -1,7 +1,7 @@
 # *__Sahil's eResume!__*
 
 <br/><br/>
-###**Hello World! Sahil on this end welcoming you to my online resume!**###
+###**Hello World! Sahil on this end welcoming you to my online resume!**
 <br/><br/><br/>
 
 ___
